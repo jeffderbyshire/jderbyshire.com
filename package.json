@@ -1,0 +1,15 @@
+{
+  "name": "jderbyshire.com",
+  "version": "1.0.0",
+  "description": "personal web site",
+  "main": "index.php",
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Derbyshire",
+  "license": "ISC"
+}
